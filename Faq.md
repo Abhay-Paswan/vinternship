@@ -88,7 +88,7 @@ Please ensure that the form is filled **daily** going forward to avoid missing a
 **2.6 I forgot to fill the attendance sheet attached to the NPTEL offer letter yesterday. What should I do now?**  
 Unfortunately, there is nothing that can be done, as the form is used for NPTEL’s official database and attendance cannot be recorded for the previous day. The previous day will be considered as a leave.-->
 
-**2.7 How can I avail the one-day leave allowed every month during the internship?**    
+<!--**2.7 How can I avail the one-day leave allowed every month during the internship?**    
 Taking leave is **discouraged**, as you may miss important updates shared during live sessions or fall behind in your progress. It will be **your own responsibility** to complete the work missed on the leave day.
 
 However, if you must take the leave, follow the steps below:
@@ -100,7 +100,7 @@ However, if you must take the leave, follow the steps below:
 
 Once submitted, the request will be reviewed and processed by the team.
 
-NOTE: No Holidays are provided!
+NOTE: No Holidays are provided!-->
 
 **2.8. I am not able to join the zoom from the link provided? It says "only registered participants are allowed".**
 Step 1: Ensure that you installed the Zoom Workplace on your Desktop or Laptop. 
@@ -163,7 +163,7 @@ Yes, to maintain consistency and ensure efficient support, we request all intern
 Each task and milestone is designed to help you progress steadily through the internship. Adhering to the specified deadlines ensures smooth evaluation, proper tracking of your progress, and continued eligibility in the program.
 
 **4.8 What happens if I miss a deadline?**
-Failure to meet a task or milestone deadline may impact your Health Points and could lead to removal from the cohort, as per internship policy. Extensions are generally not provided unless explicitly communicated.
+Failure to meet a task or milestone deadline may impact your Health Points and could lead to your discontinuation from the cohort, as per internship policy. Extensions are generally not provided unless explicitly communicated via appeal form.
 
 **4.9 where can we find the Live session recordings?**
 The Live session recordings from 20th Feb are available in this Youtube Playlist: https://www.youtube.com/playlist?list=PL4ocL5uCKzQOv6Pu81GwG2Q28cViFK3QV
